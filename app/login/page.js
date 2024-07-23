@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import LoginForm from "@/components/loginForm";
+import LoginForm from "@/components/LoginForm";
 
 export default function Home() {
   const handleSubmit = async (id, pass) => {
